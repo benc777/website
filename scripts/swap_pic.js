@@ -7,3 +7,6 @@ profilePic.addEventListener('mouseenter', () => {
 profilePic.addEventListener('mouseleave', () => {
   profilePic.src = 'assets/ben_profile_pic.png'; // Original image
 });
+
+
+
